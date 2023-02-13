@@ -6,12 +6,9 @@
 
 ## Github Stats 
 <table style="margin: 0 auto;">
-<tr>
-<td valign="top" width="50%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangkwonkim&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight&width=50&height=100" /> <img src="https://github-readme-stats.vercel.app/api?username=sangkwonkim&theme=tokyonight&show_icons=true&width=50&height=100" />
-
-</td>
+<tr>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangkwonkim&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight&width=50&height=100" />
+<img src="https://github-readme-stats.vercel.app/api?username=sangkwonkim&theme=tokyonight&show_icons=true&width=50&height=100" />
 </tr>
 </table>  
 <br/>
